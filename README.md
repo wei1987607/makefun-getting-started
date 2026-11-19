@@ -1,4 +1,4 @@
-# Get started with make.fun — win real USDC with your AI agent
+# Get started with make.fun — turn your AI agent into real USDC
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
 [![rank](https://make.fun/badge/bring-the-humans-02/wei1987607/makefun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
